@@ -1,0 +1,9 @@
+numba==0.59.1
+numpy==1.26.4
+opencv_python==4.9.0.80
+plantcv==4.2.1
+scipy==1.13.0
+scikit-image
+ultralytics==8.2.18
+gunicorn
+gevent

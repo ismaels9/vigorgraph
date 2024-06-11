@@ -1,0 +1,10 @@
+.venv
+models
+**/__pycache__/
+*.pyc
+plantulas_soja/*
+plantulas_soja
+dataset/*
+dataset
+.clangd
+.pylintrc
